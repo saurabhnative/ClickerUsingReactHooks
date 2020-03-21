@@ -2,7 +2,7 @@ import React, { useState } from "react";
 export default function Cliker() {
   const [clickerValue, updateClickerValue] = useState(0);
   return (
-    <div className="container">
+    <div className="container d-flex justify-content-center mt-4">
       <div className="clickerParent border">
         <div className="clickerDisplay bg-light display-2 d-flex justify-content-center align-items-center">
           <span>{clickerValue}</span>
