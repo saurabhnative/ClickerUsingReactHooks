@@ -1,2 +1,0 @@
-# ClickerUsingReactHooks
-Created with CodeSandbox
